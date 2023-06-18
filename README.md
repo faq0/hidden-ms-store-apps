@@ -9,17 +9,7 @@ In this occasion, go to https://store.rg-adguard.net/, copy and paste the link a
 
 For apps such as [Windows Subsystem for Android™ with Amazon Appstore](https://www.microsoft.com/store/productId/9P3395VX91NR), you might need to run `add-appxpackage "Installer PATH"` in Powershell with administrative privileges.
 
-Apps based on publishers:
-
-[Dolby Laboratories](Publishers\Dolby_Laboratories.md)
-
-[DTS, Inc.](Publishers\DTS,_Inc..md)
-
-[Microsoft Corporation](Publishers\Microsoft_Corporation.md)
-
-[Microsoft Platform Extensions](Publishers\Microsoft_Platform_Extensions.md)
-
-[Microsoft Windows](Publishers\Microsoft_Windows.md)
+Apps Based on Publishers: \Publishers\ directory
 
 ## Contributing
 Please submit issue or PR to submit a link or report a mistake.
