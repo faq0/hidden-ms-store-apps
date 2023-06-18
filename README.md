@@ -15,7 +15,7 @@ Apps based on publishers:
 
 [DTS, Inc.](Publishers\DTS,_Inc..md)
 
-[Microsoft Corporation](Publishers\Microsoft_Corporation.md)
+[Microsoft Corporation](Publishers\Microsoft_Corporation)
 
 [Microsoft Platform Extensions](Publishers\Microsoft_Platform_Extensions.md)
 
