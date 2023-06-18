@@ -7,6 +7,7 @@
 | Amazon Appstore | https://www.microsoft.com/store/productId/9NJHK44TTKSX |
 | Microsoft Photos Legacy | https://www.microsoft.com/store/productId/9NV2L4XVMCXM |
 | Legacy Photos Media Engine Add-on | https://www.microsoft.com/store/productId/9PLVPNGQ3HD1 |
+| 微软PC管家 | https://www.microsoft.com/store/productId/9P35S3ZNMCHL |
 | Skype for Business | https://www.microsoft.com/store/productId/9WZDNCRFJBB2 |
 | Outlook for Windows | https://www.microsoft.com/store/productId/9NRX63209R7B |
 | Cortana Device Setup | https://www.microsoft.com/store/productId/9NBFJPF436H3 |
